@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard examining two questions: **are Australians really paying more for fuel than a decade ago, and is the cost of petrol actually driving the switch to electric vehicles?** Built with official open data from AIP, the ABS, and the AAA Electric Vehicle Index.
 
-![Dashboard](dashboard fuel vs EV.png)
+![Dashboard](dashboard.png)
 
 ## The questions
 
